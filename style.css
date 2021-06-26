@@ -1,0 +1,33 @@
+.head{
+     position: relative;
+}
+.bn{
+    
+    cursor: pointer;
+    position: relative;
+    padding: 0.5rem 1rem;
+    border-radius: 3.75rem ;
+    line-height: 1 rem;
+    font-size: 2 rem;
+    font-weight: 600;
+    border: 3px solid black;
+    background-image: linear-gradient(180deg, white 0%, rgb(60, 162, 245) 100%);
+    box-shadow: 2rem 0 3.5rem 0 rgb(60, 162, 245) inset;
+}
+.btn{
+    cursor: pointer;
+    position: relative;
+    padding: 1rem 2rem;
+    border-radius:0rem 3.75rem 3.75rem 0rem ;
+    line-height: 2.5 rem;
+    font-size: 2 rem;
+    font-weight: 600;
+    border: 1px solid black;
+    background-image: linear-gradient(180deg, rgb(60, 162, 245) 100%);
+    box-shadow: 5rem 0rem 5rem 0rem rgb(160, 60, 243) inset;
+}
+.cal{background-image: linear-gradient(180deg, rgb(60, 162, 245) 0% rgb(160, 60, 243) 100%,);
+    box-shadow: 5rem 0 5rem 0 rgb(59, 2, 105) inset;
+
+}
+    
